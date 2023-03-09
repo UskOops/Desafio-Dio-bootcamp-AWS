@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 # Define uma lista de usuários e senhas
 USERS=(
