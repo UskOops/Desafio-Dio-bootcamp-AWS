@@ -1,6 +1,6 @@
 # Desafio-Dio-bootcamp-AWS
 
-<h1>Melhorias aplicadas na criação do usuário<h1>
+<h3>Melhorias aplicadas na criação do usuário<h3>
 
 1- Foi criada uma lista de usuários e senhas para facilitar a criação dos usuários. Dessa forma, é possível adicionar ou remover usuários da lista facilmente.
 
@@ -15,7 +15,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-<h1>Melhorias aplicadas no armazenar dados<h1>
+<h3>Melhorias aplicadas no armazenar dados<h3>
 
 1- Incluir verificações para garantir que os diretórios e grupos de usuários não sejam criados novamente caso já existam no sistema.
 
