@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 # Variáveis para armazenar senhas dos usuários
 SENHA=$(openssl passwd -crypt Senha123)
