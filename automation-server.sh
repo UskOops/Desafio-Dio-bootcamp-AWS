@@ -1,4 +1,3 @@
-#!/bin/bash
 
 # atualiza o servidor
 echo "Atualizando o servidor..."
@@ -29,3 +28,8 @@ cp -R * /var/www/html/
 echo "Removendo os arquivos temporários..."
 cd /tmp
 rm xxxx-main.zip # substituir xxxx pelo nome do repositório
+
+# reinicia o Apache
+echo "Reiniciando o Apache..."
+systemctl restart apache2
+
