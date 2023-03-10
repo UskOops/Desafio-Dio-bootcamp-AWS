@@ -24,3 +24,12 @@
 3- Especificar as permissões dos diretórios criados, por exemplo, permitindo que os membros dos grupos correspondentes possam ler e escrever nesses diretórios.
 
 4- Adicionar mensagens de erro e sucesso para informar o usuário sobre o resultado de cada etapa do processo de criação.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3>Melhorias no automation server<h3>
+
+1- Verificar se o Apache está rodando antes de baixar e copiar os arquivos da aplicação, para evitar erros.
+
+2- Remover os arquivos temporários baixados após a instalação para economizar espaço em disco.
